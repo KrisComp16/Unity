@@ -1,0 +1,47 @@
+fileFormatVersion: 2
+guid: f1985707f76b7264b9b03216cdcefe76
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '#111111'
+    second: {fileID: 2100000, guid: 83a949dcb9bded54faa8af9cdf8d1faa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '#3B8F8C'
+    second: {fileID: 2100000, guid: 0ad4f178ae86a174ba24bbda63554dd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '#6079CC'
+    second: {fileID: 2100000, guid: 34e5d7486a0a39540b190b04355b3e34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '#97B6F0'
+    second: {fileID: 2100000, guid: cdb6a3c55ac52e84c96eb96018b1895f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pin.001
+    second: {fileID: 2100000, guid: 889728f589d042344a9aeba660d2d221, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic Blue
+    second: {fileID: 2100000, guid: e1751f73590fcca44bc32f9f12894bc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Switch Case.001
+    second: {fileID: 2100000, guid: 08106ae6413c53f42a8066cfac25737e, type: 2}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc45016b844e7624dae3aec10fb443ea, type: 3}
+  reverseAxis: 0
+  renderPipeline: 0
